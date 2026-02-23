@@ -8,14 +8,8 @@ We have used GPT2 Transformer and LLama 3 model for this project.
 
 
 
-
-
-
-
-
-Due to the size limit on Github, you can find and download the saved trained llama3 models here:
-https://drive.google.com/drive/folders/1AogTWl68jiQxZvZfXJE3KJBb91MbHoc2?usp=sharing
-
+Following link for detailed information:
+https://nupur4217.github.io/Nupur4217.lyricsgeneration.io/
 
 ## Contributors
 - Aria Yan
