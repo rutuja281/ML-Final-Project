@@ -8,7 +8,7 @@ We have used GPT2 Transformer and LLama 3 model for this project.
 
 
 
-Following link for detailed information:
+Follow link for detailed information:
 https://nupur4217.github.io/Nupur4217.lyricsgeneration.io/
 
 ## Contributors
